@@ -29,13 +29,14 @@ Click the simulation to simulate the program and give the inputs and verify the 
 ### FINITE STATE MACHINE:
 
 ### LOGIC DIAGRAM:
-image
+![image](https://github.com/Sharvina-SRI/VLSI-LAB-EXP-5/assets/162664906/b0650bbd-1c85-4e2c-b109-584c38e92c35)
 
-### VERILOG CODE:
 ```
 Developed By: Sharvina SRI
 Register number: 212222060238
 ```
+
+### VERILOG CODE:
 ```
 module fsm( clk, rst, inp, outp);
 input clk, rst, inp;
