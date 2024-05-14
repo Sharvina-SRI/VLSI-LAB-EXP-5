@@ -29,14 +29,12 @@ Click the simulation to simulate the program and give the inputs and verify the 
 ## FINITE STATE MACHINE:
 
 ## LOGIC DIAGRAM:
-
 image
 
 ## VERILOG CODE:
 Developed By: Sharvina SRI
 Register number: 212222060238
-
-module fsm( clk, rst, inp, outp);
+''' module fsm( clk, rst, inp, outp);
 input clk, rst, inp;
 output outp;
 reg [1:0] state;
@@ -79,7 +77,7 @@ else if(state == 2'b11)
 outp <= 1;
 else outp<= 0;
 end
-endmodule
+endmodule '''
 
 ## OUTPUT:
 322197893-5a093168-10f6-4f6c-b4f7-cdfa69e883d4
