@@ -34,7 +34,8 @@ image
 ## VERILOG CODE:
 Developed By: Sharvina SRI
 Register number: 212222060238
-''' module fsm( clk, rst, inp, outp);
+
+module fsm( clk, rst, inp, outp);
 input clk, rst, inp;
 output outp;
 reg [1:0] state;
@@ -77,10 +78,11 @@ else if(state == 2'b11)
 outp <= 1;
 else outp<= 0;
 end
-endmodule '''
+endmodule
 
 ## OUTPUT:
-322197893-5a093168-10f6-4f6c-b4f7-cdfa69e883d4
+![image](https://github.com/Sharvina-SRI/VLSI-LAB-EXP-5/assets/162664906/4070b92b-a2b7-4390-bb3f-3ff99e9681ee)
+
 
 ## RESULT:
 Hence the finite state machine has been simulated and synthesised using Vivado 2023.2
