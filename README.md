@@ -1,37 +1,37 @@
 # VLSI-LAB-EXP-5
-### SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+## SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
-## AIM:
+### AIM:
 To simulate and synthesis finite state machine using Vivado 2023.3
 
-## APPARATUS REQUIRED:
+### APPARATUS REQUIRED:
 Vivado 2023.3
 
-## PROCEDURE:
-# STEP:1 
+### PROCEDURE:
+#### STEP:1 
 Start the Vivado, Select and Name the New project.
 
-# STEP:2 
+#### STEP:2 
 Select the device family, device, package and speed.
 
-# STEP:3 
+#### STEP:3 
 Select new source in the New Project and select Verilog Module as the Source type.
 
-# STEP:4
+#### STEP:4
 Type the File Name and Click Next and then finish button. Type the code and save it.
 
-# STEP:5
+#### STEP:5
 Select the Behavioural Simulation in the Source Window and click the check syntax.
 
-# STEP:6
+#### STEP:6
 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
 
-## FINITE STATE MACHINE:
+### FINITE STATE MACHINE:
 
-## LOGIC DIAGRAM:
+### LOGIC DIAGRAM:
 image
 
-## VERILOG CODE:
+### VERILOG CODE:
 Developed By: Sharvina SRI
 Register number: 212222060238
 
@@ -80,11 +80,11 @@ else outp<= 0;
 end
 endmodule
 
-## OUTPUT:
+### OUTPUT:
 ![image](https://github.com/Sharvina-SRI/VLSI-LAB-EXP-5/assets/162664906/4070b92b-a2b7-4390-bb3f-3ff99e9681ee)
 
 
-## RESULT:
+### RESULT:
 Hence the finite state machine has been simulated and synthesised using Vivado 2023.2
 
 
