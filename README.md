@@ -1,4 +1,6 @@
-# VLSI-LAB-EXP-5
+#### Experiment number: 05
+#### Date: 
+
 ## SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 ### AIM:
